@@ -1,0 +1,22 @@
+Iwashiime ja-JP dictionary notice
+
+Included sources:
+- MeCab IPADIC 2.7.0-20070610
+  Copyright 2000-2003 Nara Institute of Science and Technology
+  License: IPADIC license in licenses/IPADIC.txt
+  Changes: required fields were extracted, text was converted to UTF-8/NFC, duplicates were removed, and entries were converted to Iwashiime's TSV and DoubleArray formats
+- FrequencyWords 2018 en list (top 50,000 valid entries)
+  Content license: Creative Commons Attribution-ShareAlike 4.0 International
+  Changes: invalid tokens were removed, text was NFC-normalized and lowercased, and entries were converted to Iwashiime's formats
+
+Distribution requirements:
+- Keep this notice, licenses/IPADIC.txt, and licenses/CC-BY-SA-4.0.txt with the dictionary
+- Retain the IPADIC copyright and warranty text
+- Credit FrequencyWords, link its source and CC BY-SA 4.0 license where practical, identify modifications, and license the adapted FrequencyWords-derived dictionary portion under CC BY-SA 4.0
+
+Mozc OSS dictionary
+Source: https://code.googlesource.com/mozc/+/f470414b26d0e0f13f2ec865e0f3a1d2046a5398/src/data/dictionary_oss/
+Snapshot: 2015-05-23
+Copyright and licenses: licenses/MOZC.txt and licenses/MOZC-dictionary.txt
+Modifications: normalized readings and surfaces, compact dictionary encoding, generated numeral entries, daily-noun word-cost adjustment, selected local custom nouns, grammar connection-cost adjustment, and semantic relation tables
+The existing general dictionary and its source notices are retained

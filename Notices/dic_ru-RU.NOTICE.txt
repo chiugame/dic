@@ -1,0 +1,9 @@
+Iwashiime ru-RU dictionary notice
+
+Dictionary data from wordfreq large
+Source: https://github.com/rspeer/wordfreq
+Data license: Creative Commons Attribution-ShareAlike 4.0 International
+Changes: locale-script filtering, NFC normalization, lowercasing, duplicate removal, ranking preservation, and conversion to Iwashiime TSV and DoubleArray formats
+Distribution: retain attribution and license link, identify modifications, distribute the adapted dictionary data under CC BY-SA 4.0, and do not impose additional restrictions on that data
+
+The top 50,000 en entries are included under the same source and license

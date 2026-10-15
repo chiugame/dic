@@ -1,0 +1,11 @@
+Iwashiime zh-TW dictionary notice
+
+Included sources:
+- Rime pinyin-simp, Apache License 2.0: https://github.com/rime/rime-pinyin-simp
+- CC-CEDICT, CC BY-SA 4.0: https://www.mdbg.net/chinese/dictionary?page=cc-cedict
+- Chinese Wikipedia title dictionary, Wikimedia CC BY-SA 4.0 data: https://github.com/felixonmars/fcitx5-pinyin-zhwiki
+- wordfreq top 50,000 en entries, CC BY-SA 4.0
+- Cangjie3-Plus cj3-special, MIT License: https://github.com/Arthurmcarthur/Cangjie3-Plus
+Changes: tones and pinyin separators were removed, ü/u: was normalized to v, non-Han and long encyclopedia titles were excluded, entries were NFC-normalized and deduplicated, and data was converted to Iwashiime formats. Cangjie3-Plus was restricted to Big5-encodable Han characters; Cangjie keys were namespaced with *, and Sucheng keys were derived from the first and last Cangjie letters and namespaced with +
+Distribution: retain this notice and Apache-2.0/CC-BY-SA-4.0/MIT terms, preserve Rime and Cangjie3-Plus notices, credit CC-CEDICT, Wikipedia/Wikimedia and wordfreq with source links, identify modifications, and distribute the adapted CC BY-SA dictionary portions under CC BY-SA 4.0
+Simplified candidates were additionally converted with OpenCC s2tw under Apache License 2.0
