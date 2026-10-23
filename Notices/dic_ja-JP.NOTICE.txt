@@ -1,5 +1,8 @@
 Iwashiime ja-JP dictionary notice
 
+Dictionary file license: Copyright (c) 2026 chiugame. The dictionary file dic_ja-JP is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (licenses/CC-BY-SA-4.0.txt, https://creativecommons.org/licenses/by-sa/4.0/).
+The third-party sources listed below keep their own copyright and license notices.
+
 Included sources:
 - MeCab IPADIC 2.7.0-20070610
   Copyright 2000-2003 Nara Institute of Science and Technology

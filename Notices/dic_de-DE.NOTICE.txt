@@ -1,5 +1,8 @@
 Iwashiime de-DE dictionary notice
 
+Dictionary file license: Copyright (c) 2026 chiugame. The dictionary file dic_de-DE is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (licenses/CC-BY-SA-4.0.txt, https://creativecommons.org/licenses/by-sa/4.0/).
+The third-party sources listed below keep their own copyright and license notices.
+
 Dictionary data from wordfreq large
 Source: https://github.com/rspeer/wordfreq
 Data license: Creative Commons Attribution-ShareAlike 4.0 International

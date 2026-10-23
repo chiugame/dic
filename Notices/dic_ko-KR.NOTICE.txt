@@ -1,5 +1,8 @@
 Iwashiime ko-KR dictionary notice
 
+Dictionary file license: Copyright (c) 2026 chiugame. The dictionary file dic_ko-KR is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (licenses/CC-BY-SA-4.0.txt, https://creativecommons.org/licenses/by-sa/4.0/).
+The third-party sources listed below keep their own copyright and license notices.
+
 Included sources:
 - mecab-ko-dic 2.1.1-20180720 by Yongwoon Lee and Yungho Yu, Apache License 2.0: https://bitbucket.org/eunjeon/mecab-ko-dic/
 - wordfreq top 50,000 en entries, CC BY-SA 4.0

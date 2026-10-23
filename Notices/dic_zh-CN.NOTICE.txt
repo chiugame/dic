@@ -1,5 +1,8 @@
 Iwashiime zh-CN dictionary notice
 
+Dictionary file license: Copyright (c) 2026 chiugame. The dictionary file dic_zh-CN is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (licenses/CC-BY-SA-4.0.txt, https://creativecommons.org/licenses/by-sa/4.0/).
+The third-party sources listed below keep their own copyright and license notices.
+
 Included sources:
 - Rime pinyin-simp, Apache License 2.0: https://github.com/rime/rime-pinyin-simp
 - CC-CEDICT, CC BY-SA 4.0: https://www.mdbg.net/chinese/dictionary?page=cc-cedict
