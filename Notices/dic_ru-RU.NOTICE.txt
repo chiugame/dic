@@ -7,3 +7,6 @@ Changes: locale-script filtering, NFC normalization, lowercasing, duplicate remo
 Distribution: retain attribution and license link, identify modifications, distribute the adapted dictionary data under CC BY-SA 4.0, and do not impose additional restrictions on that data
 
 The top 50,000 en entries are included under the same source and license
+
+Capitalization (proper nouns) from the Hunspell ru dictionary (wooorm/dictionaries, dictionary-ru), Copyright (c) 1997-2008 Alexander I. Lebedev, BSD-3-Clause; the full license is included in licenses/BSD-3-Clause-Lebedev.txt: https://github.com/wooorm/dictionaries/tree/main/dictionaries/ru
+Changes: only the capitalization of existing candidates was taken from that dictionary (modified use); no words were added from it; Alexander I. Lebedev does not endorse this product

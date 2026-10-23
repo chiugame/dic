@@ -5,5 +5,5 @@ Included sources:
 - CC-CEDICT, CC BY-SA 4.0: https://www.mdbg.net/chinese/dictionary?page=cc-cedict
 - Chinese Wikipedia title dictionary, Wikimedia CC BY-SA 4.0 data: https://github.com/felixonmars/fcitx5-pinyin-zhwiki
 - wordfreq top 50,000 en entries, CC BY-SA 4.0
-Changes: tones and pinyin separators were removed, ü/u: was normalized to v, non-Han and long encyclopedia titles were excluded, entries were NFC-normalized and deduplicated, and data was converted to Iwashiime formats
+Changes: tones and pinyin separators were removed, ü/u: was normalized to v, non-Han and long encyclopedia titles were excluded, entries were NFC-normalized and deduplicated, Rime candidates were ordered by their Rime weights, Rime weights were converted to per-reading word cost codes, and data was converted to Iwashiime formats
 Distribution: retain this notice and Apache-2.0/CC-BY-SA-4.0 terms, preserve Rime notices, credit CC-CEDICT, Wikipedia/Wikimedia and wordfreq with source links, identify modifications, and distribute the adapted CC BY-SA dictionary portions under CC BY-SA 4.0

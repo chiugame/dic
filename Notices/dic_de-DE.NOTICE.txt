@@ -7,3 +7,6 @@ Changes: locale-script filtering, NFC normalization, lowercasing, duplicate remo
 Distribution: retain attribution and license link, identify modifications, distribute the adapted dictionary data under CC BY-SA 4.0, and do not impose additional restrictions on that data
 
 The top 50,000 en entries are included under the same source and license
+
+Capitalization of nouns from german-nouns by gambolputty (compiled from German Wiktionary), Creative Commons Attribution-ShareAlike 4.0 International: https://github.com/gambolputty/german-nouns
+Changes: only the capitalization of existing candidates was taken from that list (nouns are capitalized; words that are also used as verbs, adjectives or other words get both forms); no words were added from it; the adapted data is distributed under CC BY-SA 4.0

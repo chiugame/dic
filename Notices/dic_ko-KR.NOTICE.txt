@@ -3,5 +3,6 @@ Iwashiime ko-KR dictionary notice
 Included sources:
 - mecab-ko-dic 2.1.1-20180720 by Yongwoon Lee and Yungho Yu, Apache License 2.0: https://bitbucket.org/eunjeon/mecab-ko-dic/
 - wordfreq top 50,000 en entries, CC BY-SA 4.0
-Changes: complete Hangul surface forms were extracted, non-Hangul and duplicate forms were removed, text was NFC-normalized, and data was converted to Iwashiime formats
-Distribution: include Apache-2.0 and CC-BY-SA-4.0 terms, preserve copyright and attribution notices, identify modifications, and distribute the adapted wordfreq portion under CC BY-SA 4.0
+- FrequencyWords 2018 ko_50k (Korean word frequencies from OpenSubtitles2018) by Hermit Dave, CC BY-SA 4.0: https://github.com/hermitdave/FrequencyWords
+Changes: complete Hangul surface forms were extracted, non-Hangul and duplicate forms were removed, text was NFC-normalized, the FrequencyWords list supplies the word prediction table (words and their order), and data was converted to Iwashiime formats
+Distribution: include Apache-2.0 and CC-BY-SA-4.0 terms, preserve copyright and attribution notices, identify modifications, and distribute the adapted wordfreq and FrequencyWords portions under CC BY-SA 4.0

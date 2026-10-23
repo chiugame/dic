@@ -5,3 +5,6 @@ Source: https://github.com/rspeer/wordfreq
 Data license: Creative Commons Attribution-ShareAlike 4.0 International
 Changes: locale-script filtering, NFC normalization, lowercasing, duplicate removal, ranking preservation, and conversion to Iwashiime TSV and DoubleArray formats
 Distribution: retain attribution and license link, identify modifications, distribute the adapted dictionary data under CC BY-SA 4.0, and do not impose additional restrictions on that data
+
+Capitalization (proper nouns and the pronoun I) from the SCOWL-based Hunspell en dictionary (wooorm/dictionaries, dictionary-en), Copyright 2000-2018 Kevin Atkinson and others; the full copyright and permission notice is included in licenses/SCOWL.txt: https://github.com/wooorm/dictionaries/tree/main/dictionaries/en
+Changes: only the capitalization of existing candidates was taken from that dictionary (words in it that are capitalized only are capitalized; words listed in both forms get both candidates); no words were added from it
